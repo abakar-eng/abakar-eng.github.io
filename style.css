@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 17px/1.6 -apple-system, system-ui, sans-serif; background: Canvas; color: CanvasText; }
+main { max-width: 40rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+a { color: LinkText; }
